@@ -1,0 +1,11 @@
+Udacity javascript testing class
+http://udacity.com
+
+Jasmine reference
+http://blog.bandzarewicz.com/blog/2012/03/08/jasmine-cheat-sheet/
+
+Additional Jasmine reference
+http://jasmine.github.io/2.0/introduction.html
+
+Handlebar info
+http://handlebarsjs.com/
